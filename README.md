@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Me chamo **Henrique Parreira Gonçalves**, tenho 20 anos e sou de Formiga, Minas Gerais.
+Olá! Me chamo **Henrique Parreira Gonçalves**, tenho 21 anos e sou de Formiga, Minas Gerais.
 
 Sou estudante do 8º período de Ciência da Computação no Centro Universitário de Formiga (UNIFOR-MG) e desenvolvedor com foco em Backend, especialmente no ecossistema Java e Spring Boot.
 
